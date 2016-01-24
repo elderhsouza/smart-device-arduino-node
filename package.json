@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/elderhsouza/smart-device-arduino-node#readme",
   "devDependencies": {
-    "johnny-five": "^0.9.18"
+    "johnny-five": "^0.9.18",
+    "pubnub": "^3.7.20"
   }
 }
