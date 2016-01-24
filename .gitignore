@@ -1,0 +1,5 @@
+# Sublime Text project files
+*.sublime-*
+
+# Node JS packages
+node_modules
