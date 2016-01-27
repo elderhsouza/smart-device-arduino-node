@@ -23,8 +23,8 @@ five.Board().on('ready', function() {
 });
 
 var pubnub = require('pubnub').init({
-  subscribe_key: 'sub-c-f0d9c7c8-c255-11e5-b522-0619f8945a4f',
-  publish_key: 'pub-c-220ecbfe-081c-4526-8a9c-f0cdc98b2a64',
+  subscribe_key: 'sub-key',
+  publish_key: 'pub-key',
 });
 var channel = 'ehs-hue-clone';
 
